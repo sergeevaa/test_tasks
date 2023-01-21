@@ -7,7 +7,7 @@ $ npm install mocha
 ```
 3. Start test
 ```
-npm test
+$ npm test
 ```
 
 ## About files
