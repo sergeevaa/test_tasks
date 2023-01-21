@@ -1,0 +1,16 @@
+{
+  "type": "module",
+  "dependencies": {
+    "mocha": "^10.2.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "name": "Show Title",
+  "version": "1.0.0",
+  "main": "showTitle.js",
+  "directories": {
+    "test": "test"
+  },
+  "author": "Sergeeva A"
+}
