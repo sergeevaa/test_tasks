@@ -17,5 +17,6 @@ $ npm test
 
 
 ## About me
-Sergeeva Anastasiiaa: QA manager, QA lead, QA mentor 
+Sergeeva Anastasiiaa: QA manager, QA lead, QA mentor
+
 [Resume](https://sergeevaa.github.io/resume/#)
